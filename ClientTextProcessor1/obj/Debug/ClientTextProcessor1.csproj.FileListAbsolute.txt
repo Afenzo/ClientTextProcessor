@@ -1,0 +1,7 @@
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\bin\Debug\ClientTextProcessor1.exe.config
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\bin\Debug\ClientTextProcessor1.exe
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\bin\Debug\ClientTextProcessor1.pdb
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\obj\Debug\ClientTextProcessor1.csprojAssemblyReference.cache
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\obj\Debug\ClientTextProcessor1.csproj.CoreCompileInputs.cache
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\obj\Debug\ClientTextProcessor1.exe
+C:\Users\mindw\source\repos\ClientTextProcessor1\ClientTextProcessor1\obj\Debug\ClientTextProcessor1.pdb
